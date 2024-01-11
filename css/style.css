@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("/img/img1.webp");
+    background-image: url("../img/img1.webp");
     background-repeat: no-repeat;
     text-align: center;
     background-size: cover;
